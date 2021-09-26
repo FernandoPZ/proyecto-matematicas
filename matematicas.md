@@ -1,21 +1,3 @@
-print("--------------------------------")
-print("|      Programa iniciado       |")
-print("--------------------------------")
-N1=int(
-    input("Introduce el primer numero: ")
-    )
-N2=int(
-    input("Introduce el segundo numero: ")
-    )
-print("Calculando...")
-resta=N1-N2
-print("¡Calculado!")
-print("La resta es:",resta)
-print("--------------------------------")
-print("|       Fin del programa       |")
-print("--------------------------------")
-
-'''
   _   _                 _ 
  | \ | |               | |                _
  |  \| | ___  _ __ ___ | |__  _ __ ___   (_)
@@ -56,4 +38,3 @@ print("--------------------------------")
    | | | |  | | | |_ |\___ \\__, || |
   _| |_| |__| | |__| |____) | / / | |
  |_____|_____/ \_____|_____/ /_/  |_|
-'''
