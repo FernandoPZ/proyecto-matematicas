@@ -23,3 +23,4 @@ La codificación segura es diseñar y desarrollar software evitando las debilida
 9.- Cualquier cambio que se haga debería quedar documentado, esto facilitará modificaciones futuras.
 
 10.- Poner más cuidado en los puntos más vulnerables, no hay que olvidar que el nivel máximo de seguridad viene dado por el punto más débil.
+
