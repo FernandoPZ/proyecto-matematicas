@@ -31,3 +31,4 @@
 * Autenticación de capa de mensajes
 
   Define la información de credenciales y envía esa información a través de la red para que un servidor receptor pueda interpretarla.
+
